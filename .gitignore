@@ -11,7 +11,8 @@ notebooks/exploration.ipynb
 notebooks/*_exploration.ipynb
 
 #Data
-data/raw/
+data/raw/*
+!data/raw/README.md
 data/processed
 
 models/*
