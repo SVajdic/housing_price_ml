@@ -1,0 +1,20 @@
+#Python
+__pycache__/
+*.pyc
+
+#Virtual Environment
+venv/
+
+#Jupyter
+.ipynb_checkpoints/
+notebooks/exploration.ipynb
+notebooks/*_exploration.ipynb
+
+#Data
+#data/raw/*
+data/processed
+
+models/*
+
+#OS
+.DS_Store
