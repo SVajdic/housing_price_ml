@@ -76,6 +76,7 @@ data/raw/ames_house_prices.csv
 
 ## Project Structure
 
+```text
 housing_price_ml/
 │
 ├── data/
@@ -94,6 +95,7 @@ housing_price_ml/
 ├── README.md
 └── .gitignore
 
+```
 ---
 
 ## Usage
